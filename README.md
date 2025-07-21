@@ -1,4 +1,4 @@
-**🚗 Smart Parking System (Console-Based Java Project)**
+# 🚗 Smart Parking System (Console-Based Java Project)
 
 **📌 Project Overview**
 
